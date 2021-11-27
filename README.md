@@ -2,6 +2,7 @@
 This describes how to use income statement API on financialmodelingprep.com. <br />
 **GET YOUR APIKEY IN SECOND ON https://site.financialmodelingprep.com/developer**
 <br />
+<br />
 This endpoint returns company financial statements. SEC forms 10-K, 10-Q, and 8-K are used to obtain all financial statements for US companies. 
 
 **Documentation:** https://site.financialmodelingprep.com/developer/docs/financial-statement-free-api#Income-Statement
