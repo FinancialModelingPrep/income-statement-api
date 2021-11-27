@@ -1,4 +1,4 @@
-# [Income Statement API Documentation](https://site.financialmodelingprep.com)
+# [Income Statement API Documentation](https://site.financialmodelingprep.com/docs)
 That describes how to use income statement API on financialmodelingprep.com. <br />
 <br />
 **GET YOUR APIKEY IN SECOND ON https://site.financialmodelingprep.com/developer**
