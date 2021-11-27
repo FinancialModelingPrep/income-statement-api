@@ -1,4 +1,4 @@
-# Income statement API on https://site.financialmodelingprep.com.
+# [Income Statement API Documentation](https://site.financialmodelingprep.com)
 That describes how to use income statement API on financialmodelingprep.com. <br />
 <br />
 **GET YOUR APIKEY IN SECOND ON https://site.financialmodelingprep.com/developer**
@@ -11,10 +11,10 @@ This endpoint returns company financial statements. SEC forms 10-K, 10-Q, and 8-
 **Request Parameters:**
 
 ```solidity
-symbol : Company Symbol, ex. AAPL
-limit : Number
-period : annual | quarter
-datatype : csv
+String symbol : ex. AAPL
+Integer limit : ex., 120
+String period : annual | quarter
+String datatype : csv
 ```
 
 **Request Example:**
