@@ -14,7 +14,7 @@ This endpoint returns company financial statements. SEC forms 10-K, 10-Q, and 8-
 String symbol : ex. AAPL
 Integer limit : ex., 120
 String period : annual | quarter
-String datatype : csv
+String datatype : json | csv
 ```
 
 **Request Example:**
